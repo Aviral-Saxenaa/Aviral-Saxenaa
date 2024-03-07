@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">नमस्ते 🙏, I'm Kartikey Mittal</h1></summary>
+    <summary><h1 style="display: inline-block">नमस्ते 🙏, I'm Aviral Saxena</h1></summary>
   </ul>
 </div>
 
@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🎓 Currently pursuing B.Tech CSE at SRMIST-NCR
   
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,redux,tailwind,js,cpp,css,discord,express,figma,firebase,github,html,appwrite,materialui,bootstrap,mongodb,nodejs,postman,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,react,redux,tailwind,js,cpp,css,discord,express,figma,firebase,github,html,appwrite,materialui,bootstrap,nodejs,postman,vscode&perline=10" />
   </a>
 </p>
 
